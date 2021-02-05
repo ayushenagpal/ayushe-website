@@ -1,2 +1,6 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+## Hi!
+
+When I'm not busy :art:, I'm spending my time on raising awareness
+:loudspeaker: for social issues! My academic interests lie in machine learning
+:crystal_ball: and statistics :bar_chart:.  
+I :heart: to play board games :game_die: in my free time.

@@ -1,4 +1,3 @@
-baseurl = "https://altairmn.github.io"
 DefaultContentLanguage = "en"
 title = "Ayushe.com"
 theme = "beautifulhugo"
@@ -8,6 +7,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 publishDir = "public"
+enableEmoji = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
