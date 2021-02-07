@@ -1,0 +1,21 @@
+---
+title: Detrimental Drugs
+date: 2019-10-3
+draft: false
+---
+
+The way mental health is treated in our healthcare system is broken. I remember, after an emergency visit to the hospital, my brother returned home calmer than his usual cheerful self. Barely talking, barely interacting, barely moving. Simply returning a long stare to our efforts to talk to him. Earlier that day, he had had a complex panic attack and was rushed to the hospital, where nurses injected drugs to control the attack, not to make him better but to simply to quiet him down. 
+
+<!---more--->
+
+*Is concealing problems by suppressing symptoms our only solution? How often do other families have to see their loved ones go through this?* The same band-aid solution is applied to mental health cases all the time; treatments are rarely based on the understanding of the illness. Instead, they’re focused on treating the symptoms and controlling the negative effects of the illness. Medical practitioners have been known to heedlessly prescribe drugs as the first course of action in response to a mental illness diagnosis. Although the efficacy of this approach is another subject, the fact that drug treatment is chosen almost without exception over other approaches is worrying. Worrying in that drugs should not be the treatment of choice of mental health. 
+
+Untreated mental illnesses, some may argue, are a serious problem for American society and may lead to negative consequences. However, the solutions to this problem are inadequate at best and terribly dangerous at worst. For example, the stigma and associated reluctance to seek a mental health professional; the fear of developing a dependence on drugs and the apprehension of the financial burden of sustaining this dependence is partially to blame. Both popular culture and statistics bolster the claim that drugs are the treatment of choice for practitioners. Recent studies find that “as many as 57% of people with mental health problems are being treated solely with medications without any form of psychotherapy” and this figure is only going up in past years (Davey). Is it then any wonder that people would stay away from seeking help? 
+
+Although drugs do reduce the impact of an emergency and avoid the worst-case scenario, psychological therapies need to be tried first because those drugs are not effective in the long term and have a concerning disconnect between best practice and actual practice. Practitioners each try different drugs for what they think will be effective, hence, patients receive a variety of medications. People are taking all sorts of multiple medications, and often they don’t match up with the newest findings in research. There is a gap between research and medical practice. In his research article, Dr. Matthew Leach said, “this gap may lead to sub-standard patient [treatment], it is imperative that attention be given to” furthering our progress in research. That gap needs to be bridged and the money needs to go towards research - not overprescription. Then we have a visibility of our priorities in the field. Then the needle is pointed in the right direction. ​
+
+**Work Cited
+**Brown, Mark. “Kindness Is Nice, but Here's What People with Mental Health Issues Really Need from You | Mark Brown.” The Guardian, Guardian News and Media, 2 Feb. 2017, www.theguardian.com/commentisfree/2017/feb/02/time-to-talk-day-mental-health-sympathy-welcome-solidarity-go-further.
+Davey, Graham C.L. “Overprescribing Drugs to Treat Mental Health Problems.” Psychology Today, Sussex Publishers, 30 Jan. 2014, www.psychologytoday.com/us/blog/why-we-worry/201401/overprescribing-drugs-treat-mental-health-problems.
+Friedman, Lauren F. “Drugs Aren't Solving Mental Illness - Here's What Might.” Business Insider, Business Insider, 13 Aug. 2015, www.businessinsider.com/nimh-new-psychotherapy-initiative-2015-7.
+Leach, Matthew J., and Basil Tucker. “Current Understandings of the Research-Practice Gap in Nursing: A Mixed-Methods Study.” Collegian, Elsevier, 7 June 2017, www.sciencedirect.com/science/article/abs/pii/S1322769617300938#!

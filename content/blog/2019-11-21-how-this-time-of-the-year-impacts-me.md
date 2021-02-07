@@ -1,0 +1,13 @@
+---
+title: How This Time of the Year Imapcts Me
+date: 2019-11-21
+draft: false
+---
+
+They say Christmas is the most wonderful time of the year. Personally, mine would be waking up before my alarm to realize I still have 2 hours to sleep left. But that’s just my opinion. While my family’s constant playing of Christmas music in the car slowly drives me insane, my increased tolerance after traveling during the holidays certainly reflects a way this time of the year impacts me in small ways. Every family has its own unique complications when it comes to going on a road trip during the holidays and mine, to say the least, has a lot.
+
+<!---more--->
+
+It starts off with the first step of getting in the car which apparently isn’t the easiest for the rest of my family. When my mom tells everyone to get in the car, my obedient self gets in my assigned seat, only to find myself to be sitting there alone for about an hour waiting on everyone. Eventually, packed up, the 8 of us get in the car ready for the extremely exciting journey ahead of us with lots of fun activities. Early on, when I stretch my legs out, my foot hits something under the seat to make a clanging noise. That turns out to be a pot to make tea and a cooker. It’s not long until my cousin feels something uncomfortable beside her and she pulls out a whisk and a lemon squeezer from the gap on the side of the seat. At this point I realize, we’ve got an entire kitchen, along with the fridge and pantry, packed in the car. For a 4 day trip. Saying we over-pack a little would not give it its due credit. Standing in traffic is one thing but standing in traffic when my little cousin is screaming she has to go pee is another. Getting out of traffic and finding a place to stop when we’re in the middle of nowhere reaches a level of stress that shouldn’t be undermined. After what feels like a thousand years, we stop to take a break, bringing back food to eat in the car. Now, I’m a clean freak but the rest of the back row is not the best when it comes to maintaining a clean car ride. My brother squeezes the ketchup packet for it to shoot across in slow motion and land on my shirt. My cousin’s greasy hands from eating fries smear across the seat in an effort to hold on when the brake is suddenly hit. My little cousin drops her wrapper on the floor once she’s satisfied her hunger. These acts of crime get under my skin, which now has ketchup on it.
+
+My routine does definitely not involve going on a 7-hour journey in a packed car filled with loud singing and messy post-meal situations in the car. However, it may not be my least favorite thing. This time of the year brings me closer to family and cultivates a spirit of tolerance.

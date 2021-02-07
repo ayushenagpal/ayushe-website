@@ -4,4 +4,9 @@ subtitle: Fun stuff
 comments: false
 ---
 
-### Here lie my projects
+### CS Projects
+
+
+
+### Other Pojects
+

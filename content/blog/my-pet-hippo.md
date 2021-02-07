@@ -2,7 +2,7 @@
 title: My Pet Hippo
 subtitle: He's a crazy animal
 date: 2021-01-20
-draft: false
+draft: true
 ---
 
 ![](/images/my-pet.jpg)

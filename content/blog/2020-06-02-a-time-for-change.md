@@ -1,0 +1,23 @@
+---
+title: A Time for Change
+date: 2020-06-02
+draft: false
+---
+
+As the 5th day of civil riots over the death of George Floyd approaches and the "trend" of the black lives matter movement on social media grows and society establishes it’s time for this movement after the collapse of politics and governance leaves no other option, I’ve come to reflect on and realize a few things. 
+
+<!---more--->
+
+Racism in this country is far more deep rooted than most people think. From 269 years of slavery to 99 years of Jim Crow Laws to 86 years of Lynching to 14 years of Civil Rights fight to a lack of respect from others and police brutality to date. The movement of Black Lives Matter needs to come with an acceptance that it is okay to change your opinion. Changing your opinion means growing, opening new doors, and quickly closing the ones behind you to move forward more securely and confidently. One of the major things I’ve noticed growing up in the brown community is that many people defend using the n-word by claiming they have “the pass”. The idea of a “pass” to reclaim a derogatory slur that you simply can’t is fundamentally flawed. People should not be saying the n word because they have a black friend that allowed them to say it. That one friend does not represent their entire community and using the n-word is disrespecting the entire movement. 
+
+ As we go on, the corrupt and broken system that devalues life and craves power is revealed. Although every single police officer is not an awful racist person, all police officers, whether wittingly or not, are upholding a broken system that disproportionately punishes minorities. We need a criminal justice overhaul because so many aspects of our criminal justice system are fundamentally flawed. Police officers are just the blatantly obvious transgression. Meaningful change requires far more than occasional disciplinary action taken in response to being called out. The racism and proclivity for violence deeply embedded within policing institutions all across the country have been making themselves glaringly apparent for a long while. 
+
+Last night my mom, whose primary news source is television broadcasts by the media, asked what the police were doing in response to the riots and protests. After seeing videos of cop cars plowing into demonstrators and police forces showing and beating people on social media, I was rather surprised that she didn’t know about this and I pulled it up on Instagram to show her. This made me realize that the media frames violence as started by the protesters when, as accounted by many protesters, most of the time the protests are non violent until cops arrive. This is an attempt to absolve the police and the government of responsibility and accountability. Ever since we were young, we’ve seen the police being portrayed as heroes in television and media which is purposeful. They want us to assume that any time they shoot or arrest someone, the suspect is inherently at fault. Yet, this is not unprecedented. The whole purpose of a police system in the United States was initially to create a power system where the police were instruments of the state used to punish minorities for existing or behaving in a way that rich white men felt threatened by since it upset the existing power structures. Like I said, deep rooted! The mainstream news companies publishing those pieces are typically owned and operated by the same people who have benefited from the police system since its creation. They want people to continue ignoring police brutality and militarization because otherwise, we’ll be threatening their hold on their positions of power in this country.
+
+One’s activity on social media does not define their commitment to the betterment of society. The trend of #blackouttuesday saw 22M black squares posted yet, only 12M people have signed the petition to get justice for George Floyd. Although it had the right intention: solidarity, ultimately, Black Tuesday is counterproductive to the entire Black Lives Matter movement. It is taking away from the honest and true accounts of protests and police brutality that the media does not cover. With each black square, people are silencing a community that shouldn’t be silenced. Instead, we should be doing our most by signing all the petitions, attending protests if possible, and educating ourselves to put out a united front to show the world that black lives matter.
+
+This is not a trend. 
+
+This is a movement. 
+
+One that was long overdue. But now it’s stronger than ever. And it’s not going anywhere until we all see reforms.
