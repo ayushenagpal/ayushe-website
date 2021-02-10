@@ -97,14 +97,22 @@ enableEmoji = true
     weight = 4
 
 [[menu.main]]
+	parent = "projects"
+	identifier = "cs"
+	name = "CS"
+	url = "page/csprojects"
+	weight = 1
+
+[[menu.main]]
+	parent = "projects"
+	identifier = "misc"
+	name = "Miscellaneous"
+	url = "page/misc"
+	weight = 2
+
+[[menu.main]]
     identifier = "media"
     name = "Media"
 	url = "page/media"
     weight = 5
 
-[[menu.main]]
-	parent = "media"
-	identifier = "youtube"
-	name = "Youtube"
-	url = "https://youtube.com"
-	weight = 1
