@@ -1,6 +1,6 @@
 ---
 title: Detrimental Drugs
-date: 2019-10-3
+date: 2019-10-03
 draft: false
 ---
 

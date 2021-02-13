@@ -2,9 +2,19 @@
 
 When I'm not busy :art:, I'm spending my time on raising awareness
 :loudspeaker: for social issues! My academic interests lie in machine learning :computer: and psychology :crystal_ball: .  
-I :heart: to meeting new people, learning new languages, and traveling :airplane: .
+I :heart: meeting new people, learning new languages, and traveling :airplane: .
 
-![](images/ayushe-2.jpg)
+![](images/ayushe-2.jpg)                                                                                         
+
+
+
+
+
+
+
+
+
+
 
 ## Contact Me
 

@@ -1,10 +1,10 @@
 ---
 title: Art
-subtitle: A big part of me
+subtitle:  
 comments: false
 ---
 
-## Here lies my art
+#### **Since a young age, art has been a way to express myself and something I resorted to to take a break away from my world. I've always been passionate about it, my favorite medium being acrylic painting. I hope to continue creating art as a hobby!**
 
 ***
 
@@ -49,6 +49,14 @@ March 28th 2020
 
 
 ***
+
+![](/images/mama2.jpg)
+
+
+
+***
+
+
 
 ![](/images/1.jpg)
 
