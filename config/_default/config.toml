@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-title = "Ayushe.com"
+title = "ayushe.com"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,7 +15,7 @@ enableEmoji = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Ayushe's home"
+  subtitle = ""
   mainSections = ["post","posts"]
   logo = "images/ayushe_img.jpeg" # Expecting square dimensions
   favicon = "img/favicon.ico"

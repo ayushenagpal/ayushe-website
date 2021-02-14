@@ -1,6 +1,6 @@
 ---
 title: Media
-subtitle: Colors etc.
+subtitle: 
 comments: false
 ---
 
@@ -18,7 +18,7 @@ comments: false
 
 
 
-### Covid19 Video
+### COVID-19 Video
 
 
 {{< rawhtml >}}
