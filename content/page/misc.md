@@ -5,22 +5,20 @@ comments: false
 
 ---
 
-SASR - **Mentor & Tutor Program Founder**
+## SASR - **Mentor & Tutor Program Founder**
 
 2012 - Present
 My work with SASR started when I was a mere 9 years old. Tagging along with my mom, I'd spend hours after school working with students with special needs as a mentor and a friend. During that time I co-organized a picnic for students that attended the SASR center and underprivileged children in India. Since then, I've continued my work with them even after moving across the world. I started a program the summer before my junior year to teach English and computer skills to students with special needs in India virtually.
 
 
 
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/images/snd1.png"  >}}
+  {{< figure link="/images/snd2.jpg" >}}
+  {{< figure link="/images/snd3.jpg" >}}
+  {{< figure link="/images/snd4.jpg" >}}
+{{< /gallery >}}
 
-
-![](/images/snd1.jpg)
-
-![](/images/snd2.jpg)
-
-![](/images/snd3.jpg)
-
-![](/images/snd4.jpg)
 
 Speech and Debate Team - **Event Leader**
 
@@ -31,7 +29,7 @@ In my 3 years on the team, I've qualified to the State tournament every year but
 
 
 
-Spanish National Honors Society - **Vice President**
+## Spanish National Honors Society - **Vice President**
 
 June 2020 - June 2021
 \- Execute about 20 events throughout the year

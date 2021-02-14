@@ -9,15 +9,12 @@ comments: false
 
 ***
 
-
-
-![](/images/olay1.jpg)
-
-![](/images/olay2.jpg)
-
-![](/images/olay3.jpg)
-
-![](/images/olay4.jpg)
+{{< gallery caption-effect="grow" >}}
+  {{< figure link="/images/olay1.jpg"  >}}
+  {{< figure link="/images/olay2.jpg" >}}
+  {{< figure link="/images/olay3.jpg" >}}
+  {{< figure link="/images/olay4.jpg" >}}
+{{< /gallery >}}
 
 ### Procter & Gamble - **Olay Super Bowl LIV Intern**
 
