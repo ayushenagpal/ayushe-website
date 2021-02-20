@@ -14,8 +14,7 @@
 {{</ rawhtml >}}
 
 When I'm not busy :art:, I'm spending my time on raising awareness
-:loudspeaker: for social issues or learning ! My academic interests lie in machine learning :computer: and psychology :crystal_ball: .  
-I :heart: meeting new people, learning new languages, and traveling :airplane: .
+:loudspeaker: for social issues or learning ! My academic interests lie in machine learning :computer: and psychology :crystal_ball: .  I :heart: meeting new people, learning new languages, and traveling :airplane: .
 
 {{< rawhtml >}}
 
