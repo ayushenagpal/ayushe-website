@@ -62,6 +62,10 @@ Built an Alexa Skill on Amazon Web Developer to assist the company's new hires.
 
 Execute over 60 events throughout the year while leading the INTERalliance Leadership Council of 30+ high schoolers. 
 
+Lead chair for TechOlympics 2021: Illuminate, a month-long virtual technology conference for high schoolers. 400+ attendees
+
+[TechOlympics Website](https://techolympics.org/)
+
 #### June 2019 - April 2020
 
 Breakouts and Workshops Manager for TechOlympics, the nation's largest student-run tech conference.
@@ -74,6 +78,9 @@ Breakouts and Workshops Manager for TechOlympics, the nation's largest student-r
 
 #### January - February 2020
 
+{{< rawhtml >}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bt1xR0cGfiE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Girls Who Code Information Session Recording](https://www.youtube.com/watch?v=bt1xR0cGfiE)
+{{< /rawhtml >}}
+
